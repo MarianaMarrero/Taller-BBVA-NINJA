@@ -1,0 +1,21 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://soap.com/belts"
+           targetNamespace="http://soap.com/belts" elementFormDefault="qualified">
+    <xs:complexType name="belt">
+        <xs:sequence>
+            <xs:element name="id" type="xs:long" />
+            <xs:element name="name" type="xs:string" />
+            <xs:element name="points" type="xs:long" />
+        </xs:sequence>
+    </xs:complexType>
+    <xs:element name="getAllBeltsRequest">
+
+        <xs:complexType/>
+    </xs:element>
+    <xs:element name="getAllBeltsResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="belts" type="tns:belt" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
