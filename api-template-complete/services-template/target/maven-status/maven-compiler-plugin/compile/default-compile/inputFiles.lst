@@ -1,0 +1,17 @@
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/belt/belt/wsdl/ObjectFactory.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/model/Belt.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/service/EmployeeServiceImpl.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/dao/TrainingDAO.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/connection/BeltClient.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/model/Employee.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/connection/ConnectionApiRest.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/belt/belt/wsdl/package-info.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/model/Training.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/service/TrainingServiceImpl.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/service/EmployeeService.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/config/BeltConfiguration.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/belt/belt/wsdl/GetAllBeltsResponse.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/belt/belt/wsdl/Belt.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/service/TrainingService.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/belt/belt/wsdl/GetAllBeltsRequest.java
+/home/mmarrero/Documentos/copia/api-template/services-template/src/main/java/uy/com/bbva/services/template/dao/TrainingDAOImpl.java

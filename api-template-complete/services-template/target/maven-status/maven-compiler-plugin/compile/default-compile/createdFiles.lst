@@ -1,0 +1,15 @@
+uy/com/bbva/services/template/service/EmployeeServiceImpl.class
+uy/com/bbva/services/template/model/Employee.class
+belt/wsdl/Belt.class
+uy/com/bbva/services/template/connection/ConnectionApiRest$1.class
+uy/com/bbva/services/template/service/TrainingServiceImpl.class
+belt/wsdl/GetAllBeltsResponse.class
+uy/com/bbva/services/template/dao/TrainingDAO.class
+uy/com/bbva/services/template/service/TrainingService.class
+belt/wsdl/GetAllBeltsRequest.class
+belt/wsdl/ObjectFactory.class
+uy/com/bbva/services/template/model/Training.class
+uy/com/bbva/services/template/service/EmployeeService.class
+uy/com/bbva/services/template/dao/TrainingDAOImpl.class
+belt/wsdl/package-info.class
+uy/com/bbva/services/template/connection/ConnectionApiRest.class
