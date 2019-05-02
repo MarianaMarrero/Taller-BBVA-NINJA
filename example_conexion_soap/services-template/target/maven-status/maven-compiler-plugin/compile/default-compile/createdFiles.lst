@@ -1,0 +1,6 @@
+uy/com/bbva/services/template/connection/ConnectionApiSoap.class
+belt/wsdl/Belt.class
+belt/wsdl/GetAllBeltsResponse.class
+belt/wsdl/GetAllBeltsRequest.class
+belt/wsdl/package-info.class
+belt/wsdl/ObjectFactory.class

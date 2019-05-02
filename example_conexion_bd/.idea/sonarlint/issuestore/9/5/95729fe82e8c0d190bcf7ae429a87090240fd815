@@ -1,0 +1,3 @@
+
+Γ%squid:RedundantThrowsDeclarationCheck"‘Remove the declaration of thrown exception 'uy.com.bbva.services.commons.exceptions.ServiceException', as it cannot be thrown from method's body.(‹βοΏ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(χ‰ξƒ

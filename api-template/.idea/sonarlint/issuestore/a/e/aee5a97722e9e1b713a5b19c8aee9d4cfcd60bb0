@@ -1,0 +1,17 @@
+
+¢%squid:RedundantThrowsDeclarationCheckF"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(È¤İ—ıÿÿÿÿ
+ksquid:S00112‡"FDefine and throw a dedicated exception instead of using a generic one.(÷…©ëûÿÿÿÿ8•«ÖŸ•-
+È%squid:RedundantThrowsDeclarationCheck"‘Remove the declaration of thrown exception 'uy.com.bbva.services.commons.exceptions.ServiceException', as it cannot be thrown from method's body.(¡ëˆ•ùÿÿÿÿ
+{squid:S1488""_Immediately return this expression instead of assigning it to the temporary variable "message".(ÁïŞÆúÿÿÿÿ
+csquid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(¬ŞşÌùÿÿÿÿ
+esquid:S11920"IDefine a constant instead of duplicating this literal "logError" 8 times.(µú«¦úÿÿÿÿ
+¢%squid:RedundantThrowsDeclarationCheck7"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ş¶†ƒıÿÿÿÿ
+fsquid:S1192>"JDefine a constant instead of duplicating this literal "logDebug" 12 times.(Ã²øÓÿÿÿÿÿ
+fsquid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(´ûÂ8úÔŸ•-
+jsquid:S00112{"FDefine and throw a dedicated exception instead of using a generic one.(°Ë«úÿÿÿÿÿ8úÔŸ•-
+Ã%squid:RedundantThrowsDeclarationCheck!"‘Remove the declaration of thrown exception 'uy.com.bbva.services.commons.exceptions.ServiceException', as it cannot be thrown from method's body.(“‚‡
+¢%squid:RedundantThrowsDeclarationCheckY"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(©çÛûÿÿÿÿ
+esquid:S00112n"FDefine and throw a dedicated exception instead of using a generic one.(İêç›8úÔŸ•-
+jsquid:S00112y"FDefine and throw a dedicated exception instead of using a generic one.(ªŠŸ½üÿÿÿÿ8¾Ó«Ÿ•-
+¢%squid:RedundantThrowsDeclarationCheck)"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ş¶†ƒıÿÿÿÿ
+{squid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "message".(†À’Şüÿÿÿÿ

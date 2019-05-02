@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "b4ea21b5-232c-419d-9b08-9b44eacab928",
+		"name": "GetBelt",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8090/template/belts",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:8090/template/belts",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"template",
+						"belts"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

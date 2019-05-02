@@ -1,0 +1,11 @@
+charrua:
+  #user: {bbvs}contraseñaEncriptada
+  user: postgres
+  pass: postgres
+  url: jdbc:postgresql://localhost:5432/Ninja_RESTFULL
+  driver: org.postgresql.Driver
+  minConnections: 1
+  maxConnections: 200
+  maxConnectionsAge: 2000
+  acquireIncrement: 2
+  statmentsCacheSize: 10
